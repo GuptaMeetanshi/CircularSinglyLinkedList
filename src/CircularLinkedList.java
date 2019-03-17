@@ -225,10 +225,7 @@ class MyCircularLinkedList {
         obj.display();
         obj.deleteBeforeNode(n4);
         obj.display();
-        Node n8 = new Node();
-        n8.data = 80;
-        n8.next = null;
-       
+        
 
 
     }
